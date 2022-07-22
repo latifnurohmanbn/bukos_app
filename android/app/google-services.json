@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344073841095",
+    "project_id": "bukos-314dc",
+    "storage_bucket": "bukos-314dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344073841095:android:5173abd1ea1141b42e91e2",
+        "android_client_info": {
+          "package_name": "com.latifnurohmanbn.bukosflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344073841095-mm5l0f4cphmuvlihus5tngirsbku71of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQzkPKHNSGhMgUkY-pH4NdQvdHNXzYtMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344073841095-mm5l0f4cphmuvlihus5tngirsbku71of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1.1"
+}
